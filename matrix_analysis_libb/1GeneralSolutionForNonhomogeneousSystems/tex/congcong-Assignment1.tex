@@ -1,0 +1,215 @@
+\documentclass[UTF8,12pt, a4paper,fleqn]{ctexart}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{arydshln}
+\geometry{left=2.0cm, right=2.0cm, top=1.0cm, bottom=2.5cm}
+
+  \title{Assignment1}
+  \author{2019.9.16}
+  \date{}
+  \begin{document}
+  \maketitle
+  \subsection*{Exercise.4(a)}
+由题非齐次方程可得增广矩阵，并化为行阶梯形式，\\
+  \begin{equation*}
+  \begin{split}
+    A&=\left(
+      \begin{array}{c|c}
+        \begin{matrix}
+          1 & 2 & 1 & 2 \\
+          2 & 4 & 1 & 3 \\
+          3 & 6 & 1 & 4 
+        \end{matrix} & 
+        \begin{matrix}
+          3 \\
+          4 \\
+          5
+        \end{matrix}
+      \end{array}
+    \right) \rightarrow
+    \left(
+      \begin{array}{c|c}
+        \begin{matrix}
+          1 & 2 & 1 & 2 \\
+          0 & 0 & 1 & 1 \\
+          3 & 6 & 1 & 4 
+        \end{matrix} & 
+        \begin{matrix}
+          3 \\
+          2 \\
+          5
+        \end{matrix}
+      \end{array}
+    \right) \rightarrow
+    \left(
+      \begin{array}{c|c}
+        \begin{matrix}
+          1 & 2 & 1 & 2 \\
+          0 & 0 & 1 & 1 \\
+          0 & 0 & 1 & 1 
+        \end{matrix} & 
+        \begin{matrix}
+          3 \\
+          2 \\
+          2
+        \end{matrix}
+      \end{array}
+    \right)\rightarrow
+    \left(
+      \begin{array}{c|c}
+        \begin{matrix}
+          1 & 2 & 0 & 1 \\
+          0 & 0 & 1 & 1 \\
+          0 & 0 & 0 & 0 
+        \end{matrix} & 
+        \begin{matrix}
+          1 \\
+          2 \\
+          0
+        \end{matrix}
+      \end{array}
+    \right) \\
+    &=E_{[A|b]}
+  \end{split}
+  \end{equation*}
+  由上式可知， x$_2$和x$_4$是自由变量,将其带入原方程可得
+  \begin{equation*}
+    \begin{split}
+      &x_1 =1-2x_2-x_4 \\
+      &x_2 \  is \ "free" \\
+      &x_3 = 2-x_4 \\
+      &x_4 \  is \  "free"
+    \end{split}
+  \end{equation*}
+  由此可得此非齐次线性方程组的通解是：
+  \begin{equation*}
+  x=\left(\begin{array}{c}
+    x_1 \\
+    x_2 \\
+    x_3 \\
+    x_4
+  \end{array}
+  \right) = \left(
+    \begin{array}{c}
+      1-2x_2-x_4 \\
+      x_2 \\
+      2-x_4 \\
+      x_4
+    \end{array}
+  \right)=\left(
+    \begin{array}{c}
+      1 \\
+      0 \\
+      2 \\
+      0
+    \end{array}
+  \right)+x_2\left(
+    \begin{array}{c}
+      -2 \\
+      1 \\
+      0 \\
+      0
+    \end{array}
+  \right)+x_4\left(
+    \begin{array}{c}
+      -1 \\
+      0 \\
+      -1 \\
+      1
+    \end{array}
+  \right)
+  \end{equation*} \newline
+
+  \subsection*{Exercise.4(b)}
+  由题非齐次方程可得增广矩阵，并化为行阶梯形式，\\
+  \begin{equation*}
+  \begin{split}
+    A=\left(
+      \begin{array}{c|c}
+        \begin{matrix}
+          2 & 1 & 1 \\
+          4 & 2 & 1 \\
+          6 & 3 & 1 \\
+          8 & 4 & 1 
+        \end{matrix} & 
+        \begin{matrix}
+          4 \\
+          6 \\
+          8 \\
+          10
+        \end{matrix}
+      \end{array}
+    \right) \rightarrow
+    \left(
+      \begin{array}{c|c}
+        \begin{matrix}
+          2 & 1 & 1 \\
+          0 & 0 & 1 \\
+          0 & 0 & 2 \\
+          0 & 0 & 3 
+        \end{matrix} & 
+        \begin{matrix}
+          4 \\
+          2 \\
+          4 \\
+          6
+        \end{matrix}
+      \end{array}
+    \right) \rightarrow
+    \left(
+      \begin{array}{c|c}
+        \begin{matrix}
+          2 & 1 & 0 \\
+          0 & 0 & 1 \\
+          0 & 0 & 0 \\
+          0 & 0 & 0 
+        \end{matrix} & 
+        \begin{matrix}
+          2 \\
+          2 \\
+          0 \\
+          0
+        \end{matrix}
+      \end{array}
+    \right)
+    =E_{[A|b]}
+  \end{split}
+  \end{equation*}
+  由上式可知， y是自由变量,将其带入原方程可得
+  \begin{equation*}
+    \begin{split}
+      &x =\frac{1}{2}(2-y) \\
+      &y \  is \ "free" \\
+      &z = 2
+    \end{split}
+  \end{equation*}
+  由此可得此非齐次线性方程组的通解是：
+  \begin{equation*}
+  x=\left(\begin{array}{c}
+    x \\
+    y \\
+    z
+  \end{array}
+  \right) = \left(
+    \begin{array}{c}
+      1-\frac{1}{2}y \\
+      y \\
+      2
+    \end{array}
+  \right)=\left(
+    \begin{array}{c}
+      1 \\
+      0 \\
+      2 
+    \end{array}
+  \right)
+  +y\left(
+    \begin{array}{c}
+      -\frac{1}{2} \\
+      1 \\
+      0 
+    \end{array}
+  \right)
+  \end{equation*}
+
+\end{document}
