@@ -1,6 +1,6 @@
 ## 基于CNN的手写字符（MNIST）识别程序
 
-本文基于LeNet5，实现手写字符识别程序，项目地址[](sdf)
+本文基于LeNet5，实现手写字符识别程序，项目地址[https://github.com/thesouther/ucas_courses/tree/master/DeepLearning/mnist_classification](https://github.com/thesouther/ucas_courses/tree/master/DeepLearning/mnist_classification)
 
 ---
 ### 目录结构如下
