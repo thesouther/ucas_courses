@@ -1,6 +1,5 @@
 ## 基于python基础库实现卷积神经网络LeNet5
 
-从聪，  201928015029010，  congcong19@mails.ucas.ac.cn
 
 **本程序实现为ipynb和py脚本两种，ipynb文件更加易读，所以建议阅读`完整版CNN.ipynb`文件**
 
