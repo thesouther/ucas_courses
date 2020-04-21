@@ -154,7 +154,7 @@ def main(_):
                     l,lar,predictions = sess.run([loss, lr, train_prediction], feed_dict=feed_dict)
                     
                     result = sess.run(merged,feed_dict=feed_dict)
-                    writer.add_summary(result, step*epc)
+                    writer.add_summary(result, epc*epoch_steps + step)
 
                     run_time = time.time() - start_time
                     print("step: %d, run_time: %.1f ms" % (step, run_time))
