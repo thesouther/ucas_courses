@@ -3,7 +3,8 @@
 
 **本程序实现为ipynb和py脚本两种，ipynb文件更加易读，所以建议阅读`完整版CNN.ipynb`文件**
 
---
+---- 
+
 #### 简介
 本程序只基于Python的numpy库，实现cnn网络Lenet5，并用于在MNIST数据集上进行手写字符识别。
 
