@@ -4,17 +4,15 @@
 
 **本程序实现为ipynb和py脚本两种，ipynb文件更加易读，所以建议阅读`完整版CNN.ipynb`文件**
 
-建议直接去本人github阅读，更加方便，地址（[]()）
-
 --
 #### 简介
 本程序只基于Python的numpy库，实现cnn网络Lenet5，并用于在MNIST数据集上进行手写字符识别。
 
 本程序实现了convolution、relu、max_pooling、fc、softmax等层级的前向和后向算法，并在mnist数据集的测试集上在3个epoch就可以实现**98%** 以上的的准确率。训练时间大概一个小时。
 
-#### 查看代码
+#### 运行与查看
 
-1. 为了方便，本人整理了了notebook形式的文件，记录了运行过程中的中间结果，你可以查看`完整版CNN.ipynb`文件，或者直接从我的[github]()方便地查看效果。
+1. 为了方便，本人整理了了notebook形式的文件，记录了运行过程中的中间结果，你可以查看`完整版CNN.ipynb`文件，或者直接从我的[github](https://github.com/thesouther/ucas_courses/tree/master/ML/CNNwithNumpy)方便地查看效果。
 2. python文件。进行训练和测试，运行
    ```
    python run.py
