@@ -1,0 +1,568 @@
+start extracting train data
+start extracting test data
+Initialized! Start Training
+Step 0 (epoch 0.00)
+Minibatch loss: 10.152
+Minibatch accuracy: 48.4%
+Validation accuracy: 48.8%
+Step 100 (epoch 0.36)
+Minibatch loss: 5.314
+Minibatch accuracy: 39.1%
+Validation accuracy: 56.5%
+Step 200 (epoch 0.71)
+Minibatch loss: 4.335
+Minibatch accuracy: 53.1%
+Validation accuracy: 64.2%
+Step 300 (epoch 1.07)
+Minibatch loss: 4.053
+Minibatch accuracy: 60.9%
+Validation accuracy: 66.8%
+Step 400 (epoch 1.42)
+Minibatch loss: 3.853
+Minibatch accuracy: 71.9%
+Validation accuracy: 67.5%
+Step 500 (epoch 1.78)
+Minibatch loss: 3.806
+Minibatch accuracy: 56.2%
+Validation accuracy: 65.0%
+Step 600 (epoch 2.13)
+Minibatch loss: 3.573
+Minibatch accuracy: 70.3%
+Validation accuracy: 68.2%
+Step 700 (epoch 2.49)
+Minibatch loss: 3.524
+Minibatch accuracy: 62.5%
+Validation accuracy: 70.1%
+Step 800 (epoch 2.84)
+Minibatch loss: 3.312
+Minibatch accuracy: 73.4%
+Validation accuracy: 70.5%
+Step 900 (epoch 3.20)
+Minibatch loss: 3.207
+Minibatch accuracy: 76.6%
+Validation accuracy: 65.6%
+Step 1000 (epoch 3.56)
+Minibatch loss: 3.212
+Minibatch accuracy: 70.3%
+Validation accuracy: 72.8%
+Step 1100 (epoch 3.91)
+Minibatch loss: 3.053
+Minibatch accuracy: 76.6%
+Validation accuracy: 74.0%
+Step 1200 (epoch 4.27)
+Minibatch loss: 3.113
+Minibatch accuracy: 67.2%
+Validation accuracy: 73.2%
+Step 1300 (epoch 4.62)
+Minibatch loss: 2.881
+Minibatch accuracy: 78.1%
+Validation accuracy: 73.8%
+Step 1400 (epoch 4.98)
+Minibatch loss: 2.949
+Minibatch accuracy: 62.5%
+Validation accuracy: 74.8%
+Step 1500 (epoch 5.33)
+Minibatch loss: 2.847
+Minibatch accuracy: 68.8%
+Validation accuracy: 74.7%
+Step 1600 (epoch 5.69)
+Minibatch loss: 2.875
+Minibatch accuracy: 67.2%
+Validation accuracy: 74.0%
+Step 1700 (epoch 6.04)
+Minibatch loss: 2.770
+Minibatch accuracy: 70.3%
+Validation accuracy: 75.2%
+Step 1800 (epoch 6.40)
+Minibatch loss: 2.604
+Minibatch accuracy: 79.7%
+Validation accuracy: 74.5%
+Step 1900 (epoch 6.76)
+Minibatch loss: 2.610
+Minibatch accuracy: 76.6%
+Validation accuracy: 73.8%
+Step 2000 (epoch 7.11)
+Minibatch loss: 2.589
+Minibatch accuracy: 73.4%
+Validation accuracy: 75.1%
+Step 2100 (epoch 7.47)
+Minibatch loss: 2.485
+Minibatch accuracy: 71.9%
+Validation accuracy: 76.7%
+Step 2200 (epoch 7.82)
+Minibatch loss: 2.498
+Minibatch accuracy: 78.1%
+Validation accuracy: 77.0%
+Step 2300 (epoch 8.18)
+Minibatch loss: 2.462
+Minibatch accuracy: 79.7%
+Validation accuracy: 76.2%
+Step 2400 (epoch 8.53)
+Minibatch loss: 2.359
+Minibatch accuracy: 79.7%
+Validation accuracy: 77.2%
+Step 2500 (epoch 8.89)
+Minibatch loss: 2.453
+Minibatch accuracy: 71.9%
+Validation accuracy: 78.7%
+Step 2600 (epoch 9.24)
+Minibatch loss: 2.366
+Minibatch accuracy: 75.0%
+Validation accuracy: 77.2%
+Step 2700 (epoch 9.60)
+Minibatch loss: 2.263
+Minibatch accuracy: 81.2%
+Validation accuracy: 78.5%
+Step 2800 (epoch 9.96)
+Minibatch loss: 2.188
+Minibatch accuracy: 89.1%
+Validation accuracy: 78.4%
+Step 2900 (epoch 10.31)
+Minibatch loss: 2.221
+Minibatch accuracy: 76.6%
+Validation accuracy: 78.0%
+Step 3000 (epoch 10.67)
+Minibatch loss: 2.107
+Minibatch accuracy: 87.5%
+Validation accuracy: 79.0%
+Step 3100 (epoch 11.02)
+Minibatch loss: 2.117
+Minibatch accuracy: 76.6%
+Validation accuracy: 78.6%
+Step 3200 (epoch 11.38)
+Minibatch loss: 2.145
+Minibatch accuracy: 75.0%
+Validation accuracy: 77.7%
+Step 3300 (epoch 11.73)
+Minibatch loss: 2.197
+Minibatch accuracy: 70.3%
+Validation accuracy: 78.3%
+Step 3400 (epoch 12.09)
+Minibatch loss: 2.013
+Minibatch accuracy: 84.4%
+Validation accuracy: 80.4%
+Step 3500 (epoch 12.44)
+Minibatch loss: 2.075
+Minibatch accuracy: 76.6%
+Validation accuracy: 77.3%
+Step 3600 (epoch 12.80)
+Minibatch loss: 2.050
+Minibatch accuracy: 73.4%
+Validation accuracy: 79.6%
+Step 3700 (epoch 13.16)
+Minibatch loss: 2.111
+Minibatch accuracy: 73.4%
+Validation accuracy: 79.8%
+Step 3800 (epoch 13.51)
+Minibatch loss: 1.916
+Minibatch accuracy: 84.4%
+Validation accuracy: 78.8%
+Step 3900 (epoch 13.87)
+Minibatch loss: 1.817
+Minibatch accuracy: 89.1%
+Validation accuracy: 79.9%
+Step 4000 (epoch 14.22)
+Minibatch loss: 1.849
+Minibatch accuracy: 85.9%
+Validation accuracy: 79.2%
+Step 4100 (epoch 14.58)
+Minibatch loss: 1.755
+Minibatch accuracy: 89.1%
+Validation accuracy: 79.9%
+Step 4200 (epoch 14.93)
+Minibatch loss: 1.847
+Minibatch accuracy: 82.8%
+Validation accuracy: 80.5%
+Step 4300 (epoch 15.29)
+Minibatch loss: 1.749
+Minibatch accuracy: 82.8%
+Validation accuracy: 76.0%
+Step 4400 (epoch 15.64)
+Minibatch loss: 1.663
+Minibatch accuracy: 92.2%
+Validation accuracy: 80.0%
+Step 4500 (epoch 16.00)
+Minibatch loss: 1.681
+Minibatch accuracy: 84.4%
+Validation accuracy: 80.5%
+Step 4600 (epoch 16.36)
+Minibatch loss: 1.639
+Minibatch accuracy: 87.5%
+Validation accuracy: 80.1%
+Step 4700 (epoch 16.71)
+Minibatch loss: 1.682
+Minibatch accuracy: 85.9%
+Validation accuracy: 81.2%
+Step 4800 (epoch 17.07)
+Minibatch loss: 1.832
+Minibatch accuracy: 79.7%
+Validation accuracy: 79.8%
+Step 4900 (epoch 17.42)
+Minibatch loss: 1.559
+Minibatch accuracy: 87.5%
+Validation accuracy: 79.4%
+Step 5000 (epoch 17.78)
+Minibatch loss: 1.756
+Minibatch accuracy: 70.3%
+Validation accuracy: 80.8%
+Step 5100 (epoch 18.13)
+Minibatch loss: 1.626
+Minibatch accuracy: 81.2%
+Validation accuracy: 80.6%
+Step 5200 (epoch 18.49)
+Minibatch loss: 1.636
+Minibatch accuracy: 84.4%
+Validation accuracy: 77.8%
+Step 5300 (epoch 18.84)
+Minibatch loss: 1.527
+Minibatch accuracy: 84.4%
+Validation accuracy: 80.9%
+Step 5400 (epoch 19.20)
+Minibatch loss: 1.555
+Minibatch accuracy: 84.4%
+Validation accuracy: 79.8%
+Step 5500 (epoch 19.56)
+Minibatch loss: 1.431
+Minibatch accuracy: 89.1%
+Validation accuracy: 80.3%
+Step 5600 (epoch 19.91)
+Minibatch loss: 1.418
+Minibatch accuracy: 89.1%
+Validation accuracy: 81.0%
+Step 5700 (epoch 20.27)
+Minibatch loss: 1.380
+Minibatch accuracy: 92.2%
+Validation accuracy: 79.3%
+Step 5800 (epoch 20.62)
+Minibatch loss: 1.328
+Minibatch accuracy: 95.3%
+Validation accuracy: 79.8%
+Step 5900 (epoch 20.98)
+Minibatch loss: 1.476
+Minibatch accuracy: 82.8%
+Validation accuracy: 81.1%
+Step 6000 (epoch 21.33)
+Minibatch loss: 1.439
+Minibatch accuracy: 82.8%
+Validation accuracy: 81.0%
+Step 6100 (epoch 21.69)
+Minibatch loss: 1.384
+Minibatch accuracy: 87.5%
+Validation accuracy: 81.2%
+Step 6200 (epoch 22.04)
+Minibatch loss: 1.343
+Minibatch accuracy: 90.6%
+Validation accuracy: 80.5%
+Step 6300 (epoch 22.40)
+Minibatch loss: 1.230
+Minibatch accuracy: 93.8%
+Validation accuracy: 80.4%
+Step 6400 (epoch 22.76)
+Minibatch loss: 1.202
+Minibatch accuracy: 95.3%
+Validation accuracy: 81.6%
+Step 6500 (epoch 23.11)
+Minibatch loss: 1.224
+Minibatch accuracy: 90.6%
+Validation accuracy: 80.8%
+Step 6600 (epoch 23.47)
+Minibatch loss: 1.288
+Minibatch accuracy: 87.5%
+Validation accuracy: 79.5%
+Step 6700 (epoch 23.82)
+Minibatch loss: 1.196
+Minibatch accuracy: 93.8%
+Validation accuracy: 82.1%
+Step 6800 (epoch 24.18)
+Minibatch loss: 1.183
+Minibatch accuracy: 90.6%
+Validation accuracy: 80.7%
+Step 6900 (epoch 24.53)
+Minibatch loss: 1.125
+Minibatch accuracy: 96.9%
+Validation accuracy: 80.4%
+Step 7000 (epoch 24.89)
+Minibatch loss: 1.237
+Minibatch accuracy: 90.6%
+Validation accuracy: 79.9%
+Step 7100 (epoch 25.24)
+Minibatch loss: 1.142
+Minibatch accuracy: 92.2%
+Validation accuracy: 80.2%
+Step 7200 (epoch 25.60)
+Minibatch loss: 1.215
+Minibatch accuracy: 85.9%
+Validation accuracy: 78.7%
+Step 7300 (epoch 25.96)
+Minibatch loss: 1.227
+Minibatch accuracy: 82.8%
+Validation accuracy: 80.7%
+Step 7400 (epoch 26.31)
+Minibatch loss: 1.159
+Minibatch accuracy: 90.6%
+Validation accuracy: 80.5%
+Step 7500 (epoch 26.67)
+Minibatch loss: 1.158
+Minibatch accuracy: 89.1%
+Validation accuracy: 81.0%
+Step 7600 (epoch 27.02)
+Minibatch loss: 1.084
+Minibatch accuracy: 96.9%
+Validation accuracy: 81.0%
+Step 7700 (epoch 27.38)
+Minibatch loss: 1.046
+Minibatch accuracy: 93.8%
+Validation accuracy: 80.3%
+Step 7800 (epoch 27.73)
+Minibatch loss: 1.094
+Minibatch accuracy: 87.5%
+Validation accuracy: 82.1%
+Step 7900 (epoch 28.09)
+Minibatch loss: 0.989
+Minibatch accuracy: 95.3%
+Validation accuracy: 80.3%
+Step 8000 (epoch 28.44)
+Minibatch loss: 1.138
+Minibatch accuracy: 87.5%
+Validation accuracy: 81.0%
+Step 8100 (epoch 28.80)
+Minibatch loss: 1.081
+Minibatch accuracy: 90.6%
+Validation accuracy: 82.0%
+Step 8200 (epoch 29.16)
+Minibatch loss: 0.927
+Minibatch accuracy: 96.9%
+Validation accuracy: 80.8%
+Step 8300 (epoch 29.51)
+Minibatch loss: 1.001
+Minibatch accuracy: 93.8%
+Validation accuracy: 81.0%
+Step 8400 (epoch 29.87)
+Minibatch loss: 0.996
+Minibatch accuracy: 95.3%
+Validation accuracy: 81.9%
+Step 8500 (epoch 30.22)
+Minibatch loss: 1.014
+Minibatch accuracy: 92.2%
+Validation accuracy: 80.8%
+Step 8600 (epoch 30.58)
+Minibatch loss: 0.950
+Minibatch accuracy: 92.2%
+Validation accuracy: 81.2%
+Step 8700 (epoch 30.93)
+Minibatch loss: 0.906
+Minibatch accuracy: 95.3%
+Validation accuracy: 81.7%
+Step 8800 (epoch 31.29)
+Minibatch loss: 0.846
+Minibatch accuracy: 100.0%
+Validation accuracy: 81.3%
+Step 8900 (epoch 31.64)
+Minibatch loss: 0.852
+Minibatch accuracy: 96.9%
+Validation accuracy: 80.8%
+Step 9000 (epoch 32.00)
+Minibatch loss: 0.954
+Minibatch accuracy: 92.2%
+Validation accuracy: 80.8%
+Step 9100 (epoch 32.36)
+Minibatch loss: 0.957
+Minibatch accuracy: 90.6%
+Validation accuracy: 81.0%
+Step 9200 (epoch 32.71)
+Minibatch loss: 0.971
+Minibatch accuracy: 93.8%
+Validation accuracy: 82.6%
+Step 9300 (epoch 33.07)
+Minibatch loss: 0.928
+Minibatch accuracy: 92.2%
+Validation accuracy: 80.5%
+Step 9400 (epoch 33.42)
+Minibatch loss: 0.841
+Minibatch accuracy: 95.3%
+Validation accuracy: 82.5%
+Step 9500 (epoch 33.78)
+Minibatch loss: 0.852
+Minibatch accuracy: 92.2%
+Validation accuracy: 81.8%
+Step 9600 (epoch 34.13)
+Minibatch loss: 0.768
+Minibatch accuracy: 96.9%
+Validation accuracy: 80.6%
+Step 9700 (epoch 34.49)
+Minibatch loss: 0.773
+Minibatch accuracy: 98.4%
+Validation accuracy: 81.7%
+Step 9800 (epoch 34.84)
+Minibatch loss: 0.888
+Minibatch accuracy: 89.1%
+Validation accuracy: 82.7%
+Step 9900 (epoch 35.20)
+Minibatch loss: 0.766
+Minibatch accuracy: 96.9%
+Validation accuracy: 81.4%
+Step 10000 (epoch 35.56)
+Minibatch loss: 0.790
+Minibatch accuracy: 95.3%
+Validation accuracy: 80.5%
+Step 10100 (epoch 35.91)
+Minibatch loss: 0.774
+Minibatch accuracy: 96.9%
+Validation accuracy: 81.8%
+Step 10200 (epoch 36.27)
+Minibatch loss: 0.788
+Minibatch accuracy: 93.8%
+Validation accuracy: 80.4%
+Step 10300 (epoch 36.62)
+Minibatch loss: 0.774
+Minibatch accuracy: 98.4%
+Validation accuracy: 81.3%
+Step 10400 (epoch 36.98)
+Minibatch loss: 0.811
+Minibatch accuracy: 90.6%
+Validation accuracy: 79.2%
+Step 10500 (epoch 37.33)
+Minibatch loss: 0.740
+Minibatch accuracy: 98.4%
+Validation accuracy: 81.8%
+Step 10600 (epoch 37.69)
+Minibatch loss: 0.702
+Minibatch accuracy: 96.9%
+Validation accuracy: 80.3%
+Step 10700 (epoch 38.04)
+Minibatch loss: 0.715
+Minibatch accuracy: 98.4%
+Validation accuracy: 81.7%
+Step 10800 (epoch 38.40)
+Minibatch loss: 0.729
+Minibatch accuracy: 96.9%
+Validation accuracy: 82.0%
+Step 10900 (epoch 38.76)
+Minibatch loss: 0.675
+Minibatch accuracy: 100.0%
+Validation accuracy: 82.0%
+Step 11000 (epoch 39.11)
+Minibatch loss: 0.730
+Minibatch accuracy: 98.4%
+Validation accuracy: 79.7%
+Step 11100 (epoch 39.47)
+Minibatch loss: 0.719
+Minibatch accuracy: 98.4%
+Validation accuracy: 82.2%
+Step 11200 (epoch 39.82)
+Minibatch loss: 0.661
+Minibatch accuracy: 100.0%
+Validation accuracy: 82.1%
+Step 11300 (epoch 40.18)
+Minibatch loss: 0.677
+Minibatch accuracy: 98.4%
+Validation accuracy: 81.0%
+Step 11400 (epoch 40.53)
+Minibatch loss: 0.723
+Minibatch accuracy: 95.3%
+Validation accuracy: 80.2%
+Step 11500 (epoch 40.89)
+Minibatch loss: 0.668
+Minibatch accuracy: 96.9%
+Validation accuracy: 81.2%
+Step 11600 (epoch 41.24)
+Minibatch loss: 0.674
+Minibatch accuracy: 96.9%
+Validation accuracy: 82.2%
+Step 11700 (epoch 41.60)
+Minibatch loss: 0.758
+Minibatch accuracy: 89.1%
+Validation accuracy: 75.8%
+Step 11800 (epoch 41.96)
+Minibatch loss: 0.684
+Minibatch accuracy: 98.4%
+Validation accuracy: 82.5%
+Step 11900 (epoch 42.31)
+Minibatch loss: 0.657
+Minibatch accuracy: 98.4%
+Validation accuracy: 80.1%
+Step 12000 (epoch 42.67)
+Minibatch loss: 0.630
+Minibatch accuracy: 98.4%
+Validation accuracy: 81.2%
+Step 12100 (epoch 43.02)
+Minibatch loss: 0.619
+Minibatch accuracy: 98.4%
+Validation accuracy: 80.2%
+Step 12200 (epoch 43.38)
+Minibatch loss: 0.642
+Minibatch accuracy: 96.9%
+Validation accuracy: 81.9%
+Step 12300 (epoch 43.73)
+Minibatch loss: 0.612
+Minibatch accuracy: 98.4%
+Validation accuracy: 81.5%
+Step 12400 (epoch 44.09)
+Minibatch loss: 0.712
+Minibatch accuracy: 90.6%
+Validation accuracy: 77.3%
+Step 12500 (epoch 44.44)
+Minibatch loss: 0.596
+Minibatch accuracy: 100.0%
+Validation accuracy: 81.9%
+Step 12600 (epoch 44.80)
+Minibatch loss: 0.589
+Minibatch accuracy: 100.0%
+Validation accuracy: 80.6%
+Step 12700 (epoch 45.16)
+Minibatch loss: 0.594
+Minibatch accuracy: 100.0%
+Validation accuracy: 80.9%
+Step 12800 (epoch 45.51)
+Minibatch loss: 0.583
+Minibatch accuracy: 96.9%
+Validation accuracy: 81.0%
+Step 12900 (epoch 45.87)
+Minibatch loss: 0.566
+Minibatch accuracy: 98.4%
+Validation accuracy: 81.5%
+Step 13000 (epoch 46.22)
+Minibatch loss: 0.597
+Minibatch accuracy: 98.4%
+Validation accuracy: 81.2%
+Step 13100 (epoch 46.58)
+Minibatch loss: 0.583
+Minibatch accuracy: 95.3%
+Validation accuracy: 79.8%
+Step 13200 (epoch 46.93)
+Minibatch loss: 0.553
+Minibatch accuracy: 100.0%
+Validation accuracy: 82.0%
+Step 13300 (epoch 47.29)
+Minibatch loss: 0.593
+Minibatch accuracy: 96.9%
+Validation accuracy: 81.2%
+Step 13400 (epoch 47.64)
+Minibatch loss: 0.556
+Minibatch accuracy: 96.9%
+Validation accuracy: 79.9%
+Step 13500 (epoch 48.00)
+Minibatch loss: 0.558
+Minibatch accuracy: 100.0%
+Validation accuracy: 81.6%
+Step 13600 (epoch 48.36)
+Minibatch loss: 0.546
+Minibatch accuracy: 98.4%
+Validation accuracy: 82.0%
+Step 13700 (epoch 48.71)
+Minibatch loss: 0.537
+Minibatch accuracy: 98.4%
+Validation accuracy: 79.4%
+Step 13800 (epoch 49.07)
+Minibatch loss: 0.554
+Minibatch accuracy: 96.9%
+Validation accuracy: 76.8%
+Step 13900 (epoch 49.42)
+Minibatch loss: 0.533
+Minibatch accuracy: 100.0%
+Validation accuracy: 81.5%
+Step 14000 (epoch 49.78)
+Minibatch loss: 0.506
+Minibatch accuracy: 100.0%
+Validation accuracy: 83.0%
+Test accuracy: 82.1%
