@@ -1,0 +1,11 @@
+===============generating poem===============
+generated poem length: 32, poem is: 湖光秋月两相和，寒山水月青江滨。乳带低丝泉阴浅，日深长叶云径村。
+===============generating poem===============
+generated poem length: 24, poem is: 春眠不觉晓，秪是生不缘。自用纱云櫺，勿为不可凡。
+===============generating poem===============
+generated poem length: 32, poem is: 春江潮水连海平，近城不见刘营阍。卜盗骋肚异茂州，身花不知汉醉头。
+===============generating poem===============
+generated poem length: 24, poem is: 小舟从此逝，居济官来岁。欲怕讲天次，飞宽亦何鱼。
+===============generating poem===============
+===============generating poem===============
+generated poem length: 32, poem is: 湖光秋月两相和，三月持恩花不成。不似寒水嫁明夜，到穿满院是垂轮。

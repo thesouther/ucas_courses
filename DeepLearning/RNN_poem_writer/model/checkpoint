@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ccong/pythonPro/deeplearning/exp3_poem_writer/model/rnn_model.ckpt"
+all_model_checkpoint_paths: "/home/ccong/pythonPro/deeplearning/exp3_poem_writer/model/rnn_model.ckpt"
