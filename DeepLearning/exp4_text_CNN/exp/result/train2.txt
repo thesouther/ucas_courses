@@ -1,0 +1,805 @@
+load data ../Dataset/train.txt
+load data ../Dataset/validation.txt
+train_size:  19998
+Initialized!
+==================== step: 0 ====================
+minibatch loss: 1.021 
+minibatch acc: 50.0%
+validation acc: 50.0%
+==================== step: 10 ====================
+minibatch loss: 0.694 
+minibatch acc: 59.0%
+validation acc: 57.0%
+==================== step: 20 ====================
+minibatch loss: 0.590 
+minibatch acc: 70.0%
+validation acc: 69.8%
+==================== step: 30 ====================
+minibatch loss: 0.666 
+minibatch acc: 64.0%
+validation acc: 70.7%
+==================== step: 40 ====================
+minibatch loss: 0.571 
+minibatch acc: 72.0%
+validation acc: 73.0%
+==================== step: 50 ====================
+minibatch loss: 0.491 
+minibatch acc: 76.0%
+validation acc: 73.4%
+==================== step: 60 ====================
+minibatch loss: 0.538 
+minibatch acc: 73.0%
+validation acc: 73.9%
+==================== step: 70 ====================
+minibatch loss: 0.542 
+minibatch acc: 73.0%
+validation acc: 74.9%
+==================== step: 80 ====================
+minibatch loss: 0.576 
+minibatch acc: 76.0%
+validation acc: 74.0%
+==================== step: 90 ====================
+minibatch loss: 0.390 
+minibatch acc: 84.0%
+validation acc: 75.2%
+==================== step: 100 ====================
+minibatch loss: 0.444 
+minibatch acc: 79.0%
+validation acc: 75.5%
+==================== step: 110 ====================
+minibatch loss: 0.488 
+minibatch acc: 81.0%
+validation acc: 76.4%
+==================== step: 120 ====================
+minibatch loss: 0.411 
+minibatch acc: 79.0%
+validation acc: 76.8%
+==================== step: 130 ====================
+minibatch loss: 0.430 
+minibatch acc: 74.0%
+validation acc: 76.9%
+==================== step: 140 ====================
+minibatch loss: 0.486 
+minibatch acc: 76.0%
+validation acc: 76.7%
+==================== step: 150 ====================
+minibatch loss: 0.389 
+minibatch acc: 79.0%
+validation acc: 77.7%
+==================== step: 160 ====================
+minibatch loss: 0.465 
+minibatch acc: 76.0%
+validation acc: 71.4%
+==================== step: 170 ====================
+minibatch loss: 0.396 
+minibatch acc: 84.0%
+validation acc: 75.3%
+==================== step: 180 ====================
+minibatch loss: 0.498 
+minibatch acc: 73.0%
+validation acc: 79.1%
+==================== step: 190 ====================
+minibatch loss: 0.404 
+minibatch acc: 84.0%
+validation acc: 77.5%
+==================== step: 200 ====================
+minibatch loss: 0.281 
+minibatch acc: 89.0%
+validation acc: 78.5%
+==================== step: 210 ====================
+minibatch loss: 0.387 
+minibatch acc: 84.0%
+validation acc: 77.5%
+==================== step: 220 ====================
+minibatch loss: 0.413 
+minibatch acc: 79.0%
+validation acc: 73.5%
+==================== step: 230 ====================
+minibatch loss: 0.293 
+minibatch acc: 87.0%
+validation acc: 80.4%
+==================== step: 240 ====================
+minibatch loss: 0.316 
+minibatch acc: 88.0%
+validation acc: 79.5%
+==================== step: 250 ====================
+minibatch loss: 0.301 
+minibatch acc: 88.0%
+validation acc: 80.0%
+==================== step: 260 ====================
+minibatch loss: 0.237 
+minibatch acc: 92.0%
+validation acc: 80.0%
+==================== step: 270 ====================
+minibatch loss: 0.236 
+minibatch acc: 92.0%
+validation acc: 80.3%
+==================== step: 280 ====================
+minibatch loss: 0.329 
+minibatch acc: 86.0%
+validation acc: 80.5%
+==================== step: 290 ====================
+minibatch loss: 0.226 
+minibatch acc: 93.0%
+validation acc: 79.6%
+==================== step: 300 ====================
+minibatch loss: 0.297 
+minibatch acc: 88.0%
+validation acc: 78.1%
+==================== step: 310 ====================
+minibatch loss: 0.281 
+minibatch acc: 89.0%
+validation acc: 75.2%
+==================== step: 320 ====================
+minibatch loss: 0.243 
+minibatch acc: 92.0%
+validation acc: 80.9%
+==================== step: 330 ====================
+minibatch loss: 0.254 
+minibatch acc: 91.0%
+validation acc: 80.4%
+==================== step: 340 ====================
+minibatch loss: 0.256 
+minibatch acc: 91.0%
+validation acc: 81.3%
+==================== step: 350 ====================
+minibatch loss: 0.284 
+minibatch acc: 90.0%
+validation acc: 80.2%
+==================== step: 360 ====================
+minibatch loss: 0.247 
+minibatch acc: 90.0%
+validation acc: 77.5%
+==================== step: 370 ====================
+minibatch loss: 0.273 
+minibatch acc: 89.0%
+validation acc: 78.2%
+==================== step: 380 ====================
+minibatch loss: 0.205 
+minibatch acc: 93.0%
+validation acc: 78.9%
+==================== step: 390 ====================
+minibatch loss: 0.223 
+minibatch acc: 92.0%
+validation acc: 80.1%
+==================== step: 400 ====================
+minibatch loss: 0.205 
+minibatch acc: 91.0%
+validation acc: 81.2%
+==================== step: 410 ====================
+minibatch loss: 0.183 
+minibatch acc: 94.0%
+validation acc: 82.1%
+==================== step: 420 ====================
+minibatch loss: 0.223 
+minibatch acc: 95.0%
+validation acc: 78.2%
+==================== step: 430 ====================
+minibatch loss: 0.184 
+minibatch acc: 92.0%
+validation acc: 76.5%
+==================== step: 440 ====================
+minibatch loss: 0.220 
+minibatch acc: 92.0%
+validation acc: 81.0%
+==================== step: 450 ====================
+minibatch loss: 0.179 
+minibatch acc: 97.0%
+validation acc: 81.5%
+==================== step: 460 ====================
+minibatch loss: 0.087 
+minibatch acc: 99.0%
+validation acc: 81.4%
+==================== step: 470 ====================
+minibatch loss: 0.171 
+minibatch acc: 96.0%
+validation acc: 82.0%
+==================== step: 480 ====================
+minibatch loss: 0.143 
+minibatch acc: 97.0%
+validation acc: 82.2%
+==================== step: 490 ====================
+minibatch loss: 0.129 
+minibatch acc: 97.0%
+validation acc: 82.4%
+==================== step: 500 ====================
+minibatch loss: 0.174 
+minibatch acc: 95.0%
+validation acc: 74.6%
+==================== step: 510 ====================
+minibatch loss: 0.160 
+minibatch acc: 95.0%
+validation acc: 82.0%
+==================== step: 520 ====================
+minibatch loss: 0.265 
+minibatch acc: 88.0%
+validation acc: 74.6%
+==================== step: 530 ====================
+minibatch loss: 0.150 
+minibatch acc: 95.0%
+validation acc: 82.5%
+==================== step: 540 ====================
+minibatch loss: 0.189 
+minibatch acc: 93.0%
+validation acc: 74.3%
+==================== step: 550 ====================
+minibatch loss: 0.137 
+minibatch acc: 95.0%
+validation acc: 82.1%
+==================== step: 560 ====================
+minibatch loss: 0.161 
+minibatch acc: 96.0%
+validation acc: 78.2%
+==================== step: 570 ====================
+minibatch loss: 0.147 
+minibatch acc: 95.0%
+validation acc: 82.3%
+==================== step: 580 ====================
+minibatch loss: 0.197 
+minibatch acc: 90.0%
+validation acc: 78.3%
+==================== step: 590 ====================
+minibatch loss: 0.108 
+minibatch acc: 99.0%
+validation acc: 81.5%
+==================== step: 600 ====================
+minibatch loss: 0.104 
+minibatch acc: 99.0%
+validation acc: 81.4%
+==================== step: 610 ====================
+minibatch loss: 0.107 
+minibatch acc: 99.0%
+validation acc: 83.0%
+==================== step: 620 ====================
+minibatch loss: 0.110 
+minibatch acc: 97.0%
+validation acc: 80.3%
+==================== step: 630 ====================
+minibatch loss: 0.253 
+minibatch acc: 87.0%
+validation acc: 68.9%
+==================== step: 640 ====================
+minibatch loss: 0.167 
+minibatch acc: 92.0%
+validation acc: 78.0%
+==================== step: 650 ====================
+minibatch loss: 0.073 
+minibatch acc: 100.0%
+validation acc: 83.2%
+==================== step: 660 ====================
+minibatch loss: 0.124 
+minibatch acc: 98.0%
+validation acc: 82.8%
+==================== step: 670 ====================
+minibatch loss: 0.085 
+minibatch acc: 98.0%
+validation acc: 79.9%
+==================== step: 680 ====================
+minibatch loss: 0.109 
+minibatch acc: 97.0%
+validation acc: 82.0%
+==================== step: 690 ====================
+minibatch loss: 0.075 
+minibatch acc: 99.0%
+validation acc: 83.0%
+==================== step: 700 ====================
+minibatch loss: 0.081 
+minibatch acc: 100.0%
+validation acc: 82.6%
+==================== step: 710 ====================
+minibatch loss: 0.115 
+minibatch acc: 95.0%
+validation acc: 79.4%
+==================== step: 720 ====================
+minibatch loss: 0.063 
+minibatch acc: 100.0%
+validation acc: 82.9%
+==================== step: 730 ====================
+minibatch loss: 0.139 
+minibatch acc: 95.0%
+validation acc: 77.8%
+==================== step: 740 ====================
+minibatch loss: 0.048 
+minibatch acc: 99.0%
+validation acc: 83.0%
+==================== step: 750 ====================
+minibatch loss: 0.128 
+minibatch acc: 95.0%
+validation acc: 77.3%
+==================== step: 760 ====================
+minibatch loss: 0.070 
+minibatch acc: 100.0%
+validation acc: 83.1%
+==================== step: 770 ====================
+minibatch loss: 0.142 
+minibatch acc: 96.0%
+validation acc: 77.7%
+==================== step: 780 ====================
+minibatch loss: 0.078 
+minibatch acc: 100.0%
+validation acc: 80.9%
+==================== step: 790 ====================
+minibatch loss: 0.052 
+minibatch acc: 100.0%
+validation acc: 82.0%
+==================== step: 800 ====================
+minibatch loss: 0.069 
+minibatch acc: 99.0%
+validation acc: 81.4%
+==================== step: 810 ====================
+minibatch loss: 0.073 
+minibatch acc: 100.0%
+validation acc: 81.7%
+==================== step: 820 ====================
+minibatch loss: 0.106 
+minibatch acc: 97.0%
+validation acc: 82.7%
+==================== step: 830 ====================
+minibatch loss: 0.063 
+minibatch acc: 99.0%
+validation acc: 81.6%
+==================== step: 840 ====================
+minibatch loss: 0.090 
+minibatch acc: 98.0%
+validation acc: 77.6%
+==================== step: 850 ====================
+minibatch loss: 0.092 
+minibatch acc: 98.0%
+validation acc: 80.7%
+==================== step: 860 ====================
+minibatch loss: 0.083 
+minibatch acc: 97.0%
+validation acc: 83.0%
+==================== step: 870 ====================
+minibatch loss: 0.042 
+minibatch acc: 100.0%
+validation acc: 83.3%
+==================== step: 880 ====================
+minibatch loss: 0.032 
+minibatch acc: 100.0%
+validation acc: 83.5%
+==================== step: 890 ====================
+minibatch loss: 0.038 
+minibatch acc: 100.0%
+validation acc: 82.6%
+==================== step: 900 ====================
+minibatch loss: 0.060 
+minibatch acc: 99.0%
+validation acc: 83.8%
+==================== step: 910 ====================
+minibatch loss: 0.028 
+minibatch acc: 100.0%
+validation acc: 83.4%
+==================== step: 920 ====================
+minibatch loss: 0.067 
+minibatch acc: 98.0%
+validation acc: 81.1%
+==================== step: 930 ====================
+minibatch loss: 0.081 
+minibatch acc: 97.0%
+validation acc: 77.4%
+==================== step: 940 ====================
+minibatch loss: 0.066 
+minibatch acc: 98.0%
+validation acc: 83.1%
+==================== step: 950 ====================
+minibatch loss: 0.074 
+minibatch acc: 99.0%
+validation acc: 81.5%
+==================== step: 960 ====================
+minibatch loss: 0.054 
+minibatch acc: 99.0%
+validation acc: 82.3%
+==================== step: 970 ====================
+minibatch loss: 0.094 
+minibatch acc: 97.0%
+validation acc: 77.7%
+==================== step: 980 ====================
+minibatch loss: 0.058 
+minibatch acc: 100.0%
+validation acc: 77.3%
+==================== step: 990 ====================
+minibatch loss: 0.026 
+minibatch acc: 100.0%
+validation acc: 83.2%
+==================== step: 1000 ====================
+minibatch loss: 0.032 
+minibatch acc: 100.0%
+validation acc: 82.1%
+==================== step: 1010 ====================
+minibatch loss: 0.025 
+minibatch acc: 100.0%
+validation acc: 83.5%
+==================== step: 1020 ====================
+minibatch loss: 0.030 
+minibatch acc: 100.0%
+validation acc: 82.9%
+==================== step: 1030 ====================
+minibatch loss: 0.034 
+minibatch acc: 100.0%
+validation acc: 84.0%
+==================== step: 1040 ====================
+minibatch loss: 0.078 
+minibatch acc: 98.0%
+validation acc: 81.1%
+==================== step: 1050 ====================
+minibatch loss: 0.042 
+minibatch acc: 100.0%
+validation acc: 79.8%
+==================== step: 1060 ====================
+minibatch loss: 0.033 
+minibatch acc: 100.0%
+validation acc: 83.8%
+==================== step: 1070 ====================
+minibatch loss: 0.028 
+minibatch acc: 100.0%
+validation acc: 84.0%
+==================== step: 1080 ====================
+minibatch loss: 0.039 
+minibatch acc: 100.0%
+validation acc: 83.4%
+==================== step: 1090 ====================
+minibatch loss: 0.032 
+minibatch acc: 100.0%
+validation acc: 83.8%
+==================== step: 1100 ====================
+minibatch loss: 0.032 
+minibatch acc: 100.0%
+validation acc: 82.9%
+==================== step: 1110 ====================
+minibatch loss: 0.041 
+minibatch acc: 100.0%
+validation acc: 80.3%
+==================== step: 1120 ====================
+minibatch loss: 0.051 
+minibatch acc: 99.0%
+validation acc: 80.5%
+==================== step: 1130 ====================
+minibatch loss: 0.028 
+minibatch acc: 100.0%
+validation acc: 82.4%
+==================== step: 1140 ====================
+minibatch loss: 0.035 
+minibatch acc: 99.0%
+validation acc: 83.5%
+==================== step: 1150 ====================
+minibatch loss: 0.087 
+minibatch acc: 99.0%
+validation acc: 74.6%
+==================== step: 1160 ====================
+minibatch loss: 0.027 
+minibatch acc: 100.0%
+validation acc: 83.5%
+==================== step: 1170 ====================
+minibatch loss: 0.034 
+minibatch acc: 100.0%
+validation acc: 78.1%
+==================== step: 1180 ====================
+minibatch loss: 0.022 
+minibatch acc: 100.0%
+validation acc: 81.6%
+==================== step: 1190 ====================
+minibatch loss: 0.019 
+minibatch acc: 100.0%
+validation acc: 81.0%
+==================== step: 1200 ====================
+minibatch loss: 0.133 
+minibatch acc: 94.0%
+validation acc: 73.6%
+==================== step: 1210 ====================
+minibatch loss: 0.018 
+minibatch acc: 100.0%
+validation acc: 83.8%
+==================== step: 1220 ====================
+minibatch loss: 0.042 
+minibatch acc: 100.0%
+validation acc: 81.0%
+==================== step: 1230 ====================
+minibatch loss: 0.025 
+minibatch acc: 100.0%
+validation acc: 83.5%
+==================== step: 1240 ====================
+minibatch loss: 0.017 
+minibatch acc: 100.0%
+validation acc: 82.5%
+==================== step: 1250 ====================
+minibatch loss: 0.019 
+minibatch acc: 100.0%
+validation acc: 83.4%
+==================== step: 1260 ====================
+minibatch loss: 0.019 
+minibatch acc: 100.0%
+validation acc: 83.2%
+==================== step: 1270 ====================
+minibatch loss: 0.034 
+minibatch acc: 100.0%
+validation acc: 82.5%
+==================== step: 1280 ====================
+minibatch loss: 0.027 
+minibatch acc: 100.0%
+validation acc: 83.9%
+==================== step: 1290 ====================
+minibatch loss: 0.021 
+minibatch acc: 100.0%
+validation acc: 83.2%
+==================== step: 1300 ====================
+minibatch loss: 0.025 
+minibatch acc: 100.0%
+validation acc: 82.9%
+==================== step: 1310 ====================
+minibatch loss: 0.016 
+minibatch acc: 100.0%
+validation acc: 83.7%
+==================== step: 1320 ====================
+minibatch loss: 0.019 
+minibatch acc: 100.0%
+validation acc: 83.2%
+==================== step: 1330 ====================
+minibatch loss: 0.016 
+minibatch acc: 100.0%
+validation acc: 83.9%
+==================== step: 1340 ====================
+minibatch loss: 0.042 
+minibatch acc: 100.0%
+validation acc: 79.6%
+==================== step: 1350 ====================
+minibatch loss: 0.026 
+minibatch acc: 100.0%
+validation acc: 74.7%
+==================== step: 1360 ====================
+minibatch loss: 0.017 
+minibatch acc: 100.0%
+validation acc: 81.9%
+==================== step: 1370 ====================
+minibatch loss: 0.036 
+minibatch acc: 100.0%
+validation acc: 74.6%
+==================== step: 1380 ====================
+minibatch loss: 0.027 
+minibatch acc: 100.0%
+validation acc: 83.4%
+==================== step: 1390 ====================
+minibatch loss: 0.224 
+minibatch acc: 89.0%
+validation acc: 67.8%
+==================== step: 1400 ====================
+minibatch loss: 0.390 
+minibatch acc: 80.0%
+validation acc: 61.5%
+==================== step: 1410 ====================
+minibatch loss: 0.066 
+minibatch acc: 98.0%
+validation acc: 81.1%
+==================== step: 1420 ====================
+minibatch loss: 0.047 
+minibatch acc: 99.0%
+validation acc: 78.1%
+==================== step: 1430 ====================
+minibatch loss: 0.031 
+minibatch acc: 100.0%
+validation acc: 81.6%
+==================== step: 1440 ====================
+minibatch loss: 0.027 
+minibatch acc: 99.0%
+validation acc: 83.3%
+==================== step: 1450 ====================
+minibatch loss: 0.012 
+minibatch acc: 100.0%
+validation acc: 83.9%
+==================== step: 1460 ====================
+minibatch loss: 0.013 
+minibatch acc: 100.0%
+validation acc: 83.9%
+==================== step: 1470 ====================
+minibatch loss: 0.018 
+minibatch acc: 99.0%
+validation acc: 83.7%
+==================== step: 1480 ====================
+minibatch loss: 0.022 
+minibatch acc: 100.0%
+validation acc: 83.8%
+==================== step: 1490 ====================
+minibatch loss: 0.014 
+minibatch acc: 100.0%
+validation acc: 82.8%
+==================== step: 1500 ====================
+minibatch loss: 0.021 
+minibatch acc: 100.0%
+validation acc: 82.1%
+==================== step: 1510 ====================
+minibatch loss: 0.011 
+minibatch acc: 100.0%
+validation acc: 83.2%
+==================== step: 1520 ====================
+minibatch loss: 0.008 
+minibatch acc: 100.0%
+validation acc: 83.7%
+==================== step: 1530 ====================
+minibatch loss: 0.012 
+minibatch acc: 100.0%
+validation acc: 83.2%
+==================== step: 1540 ====================
+minibatch loss: 0.023 
+minibatch acc: 100.0%
+validation acc: 78.7%
+==================== step: 1550 ====================
+minibatch loss: 0.025 
+minibatch acc: 99.0%
+validation acc: 84.0%
+==================== step: 1560 ====================
+minibatch loss: 0.130 
+minibatch acc: 92.0%
+validation acc: 78.5%
+==================== step: 1570 ====================
+minibatch loss: 0.295 
+minibatch acc: 84.0%
+validation acc: 65.9%
+==================== step: 1580 ====================
+minibatch loss: 0.027 
+minibatch acc: 99.0%
+validation acc: 80.5%
+==================== step: 1590 ====================
+minibatch loss: 0.419 
+minibatch acc: 82.0%
+validation acc: 59.9%
+==================== step: 1600 ====================
+minibatch loss: 0.006 
+minibatch acc: 100.0%
+validation acc: 76.2%
+==================== step: 1610 ====================
+minibatch loss: 0.245 
+minibatch acc: 94.0%
+validation acc: 75.8%
+==================== step: 1620 ====================
+minibatch loss: 0.018 
+minibatch acc: 100.0%
+validation acc: 79.0%
+==================== step: 1630 ====================
+minibatch loss: 0.204 
+minibatch acc: 93.0%
+validation acc: 74.5%
+==================== step: 1640 ====================
+minibatch loss: 0.130 
+minibatch acc: 92.0%
+validation acc: 78.0%
+==================== step: 1650 ====================
+minibatch loss: 0.037 
+minibatch acc: 98.0%
+validation acc: 80.9%
+==================== step: 1660 ====================
+minibatch loss: 0.024 
+minibatch acc: 100.0%
+validation acc: 82.8%
+==================== step: 1670 ====================
+minibatch loss: 0.019 
+minibatch acc: 100.0%
+validation acc: 82.1%
+==================== step: 1680 ====================
+minibatch loss: 0.018 
+minibatch acc: 100.0%
+validation acc: 83.4%
+==================== step: 1690 ====================
+minibatch loss: 0.009 
+minibatch acc: 100.0%
+validation acc: 83.6%
+==================== step: 1700 ====================
+minibatch loss: 0.005 
+minibatch acc: 100.0%
+validation acc: 83.3%
+==================== step: 1710 ====================
+minibatch loss: 0.011 
+minibatch acc: 100.0%
+validation acc: 83.7%
+==================== step: 1720 ====================
+minibatch loss: 0.016 
+minibatch acc: 100.0%
+validation acc: 83.9%
+==================== step: 1730 ====================
+minibatch loss: 0.006 
+minibatch acc: 100.0%
+validation acc: 83.7%
+==================== step: 1740 ====================
+minibatch loss: 0.008 
+minibatch acc: 100.0%
+validation acc: 81.8%
+==================== step: 1750 ====================
+minibatch loss: 0.014 
+minibatch acc: 100.0%
+validation acc: 83.5%
+==================== step: 1760 ====================
+minibatch loss: 0.005 
+minibatch acc: 100.0%
+validation acc: 83.3%
+==================== step: 1770 ====================
+minibatch loss: 0.020 
+minibatch acc: 98.0%
+validation acc: 83.6%
+==================== step: 1780 ====================
+minibatch loss: 0.002 
+minibatch acc: 100.0%
+validation acc: 83.9%
+==================== step: 1790 ====================
+minibatch loss: 0.014 
+minibatch acc: 99.0%
+validation acc: 82.2%
+==================== step: 1800 ====================
+minibatch loss: 0.045 
+minibatch acc: 98.0%
+validation acc: 83.5%
+==================== step: 1810 ====================
+minibatch loss: 0.001 
+minibatch acc: 100.0%
+validation acc: 83.7%
+==================== step: 1820 ====================
+minibatch loss: 0.012 
+minibatch acc: 100.0%
+validation acc: 83.8%
+==================== step: 1830 ====================
+minibatch loss: 0.003 
+minibatch acc: 100.0%
+validation acc: 83.7%
+==================== step: 1840 ====================
+minibatch loss: 0.006 
+minibatch acc: 100.0%
+validation acc: 83.9%
+==================== step: 1850 ====================
+minibatch loss: 0.004 
+minibatch acc: 100.0%
+validation acc: 83.8%
+==================== step: 1860 ====================
+minibatch loss: 0.004 
+minibatch acc: 100.0%
+validation acc: 83.2%
+==================== step: 1870 ====================
+minibatch loss: 0.007 
+minibatch acc: 100.0%
+validation acc: 82.1%
+==================== step: 1880 ====================
+minibatch loss: 0.006 
+minibatch acc: 100.0%
+validation acc: 83.5%
+==================== step: 1890 ====================
+minibatch loss: 0.006 
+minibatch acc: 100.0%
+validation acc: 83.7%
+==================== step: 1900 ====================
+minibatch loss: 0.017 
+minibatch acc: 100.0%
+validation acc: 83.5%
+==================== step: 1910 ====================
+minibatch loss: 0.022 
+minibatch acc: 100.0%
+validation acc: 82.7%
+==================== step: 1920 ====================
+minibatch loss: 0.015 
+minibatch acc: 100.0%
+validation acc: 82.4%
+==================== step: 1930 ====================
+minibatch loss: 0.009 
+minibatch acc: 100.0%
+validation acc: 82.7%
+==================== step: 1940 ====================
+minibatch loss: 0.001 
+minibatch acc: 100.0%
+validation acc: 83.3%
+==================== step: 1950 ====================
+minibatch loss: 0.011 
+minibatch acc: 100.0%
+validation acc: 82.1%
+==================== step: 1960 ====================
+minibatch loss: 0.009 
+minibatch acc: 100.0%
+validation acc: 82.8%
+==================== step: 1970 ====================
+minibatch loss: 0.004 
+minibatch acc: 100.0%
+validation acc: 83.5%
+==================== step: 1980 ====================
+minibatch loss: 0.007 
+minibatch acc: 100.0%
+validation acc: 83.3%
+==================== step: 1990 ====================
+minibatch loss: 0.001 
+minibatch acc: 100.0%
+validation acc: 84.1%
+./model/text_cnn.ckpt

@@ -1,0 +1,3 @@
+load data ../Dataset/test.txt
+test data shape:  (369, 75)
+test accuracy: 85.4%

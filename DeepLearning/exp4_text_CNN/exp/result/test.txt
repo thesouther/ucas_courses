@@ -1,0 +1,4 @@
+load data ../Dataset/test.txt
+test data shape:  (369, 75)
+input_x.shape (100, 75)
+test accuracy: 83.7%
